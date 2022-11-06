@@ -9,6 +9,7 @@
     "start": "node server.js",
     "deploy" : "gh-pages -d dist"
   },
+  "homepage": "https://Marckus32.github.io/portfolio",
   "dependencies": {
     "bootstrap": "^5.2.0",
     "core-js": "^3.8.3",
